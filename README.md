@@ -5,7 +5,9 @@
 2. Bank Customer Churn Prediction
 3. Baby's Activities Analysis and Failure Modeling Discussion
 
-## - **Spark Project** ##
-
 ## - **Tableau Project** ##
 1. Movie Recommendation
+
+## - **Spark Project** ##
+
+
