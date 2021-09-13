@@ -10,4 +10,6 @@ This dataset contains all reservations info for 3 hotels throughout 2020. Based 
 
 ![Hotel Room Sales 2020](https://user-images.githubusercontent.com/70311556/133028863-304028a9-ab6c-45f3-839a-d37abce3554b.png)
 
+Please check out on [my tableau profile](https://public.tableau.com/views/HotelRoomSalesVisualization/HotelRoomSales2020_1?:language=en-US&:display_count=n&:origin=viz_share_link) if you'd like to view all sheets. 
+
 
