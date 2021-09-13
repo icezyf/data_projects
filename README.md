@@ -9,6 +9,6 @@
 1. [Movie Recommendation Engine Development](https://github.com/icezyf/data_projects/blob/f0a27cd4fff0e645bce4c8e89b7dc7ba5d0a3e69/Spark_Movie_Recommendation.ipynb)
 
 ## - **Spark Project** ##
-1. Hotel Room Sales in 2020
+1. Hotel Room Sales 2020
 
 
